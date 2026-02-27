@@ -1,10 +1,8 @@
 #def add(x, y):
 #    print("I will add the numbers %d and %d" % (x, y))
 #    return x + y;
-
 #sum = add(5, 7) # execution starts here, 5 & 7 (actual parameters) are passed to x & y (formal parameters)
 #print("=", sum)
-
 
 def add(x, y):
     return x + y;
